@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Node
+node_modules/
+.next/
+
+# Firebase credentials (NEVER commit)
+**/serviceAccountKey.json
+firebase/*.json
+
+# Captured images
+*.jpg
+*.jpeg
+*.mp4
+capture_test/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store

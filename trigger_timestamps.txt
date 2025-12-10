@@ -1,0 +1,7 @@
+frame,time_sec,tyre_index,dot_type,expected
+70,2.333,0,circle,ACCEPT
+141,4.700,1,pacman,REJECT
+142,4.733,1,pacman,REJECT
+213,7.100,2,circle,ACCEPT
+214,7.133,2,circle,ACCEPT
+285,9.500,3,irregular,REJECT
